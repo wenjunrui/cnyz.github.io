@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cnyz.github.io/</id>
+    <title>cnyz</title>
+    <updated>2021-05-09T01:27:22.545Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cnyz.github.io/"/>
+    <link rel="self" href="https://cnyz.github.io/atom.xml"/>
+    <subtitle>Try My Best</subtitle>
+    <logo>https://cnyz.github.io/images/avatar.png</logo>
+    <icon>https://cnyz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, cnyz</rights>
+</feed>
